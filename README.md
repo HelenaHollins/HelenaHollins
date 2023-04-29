@@ -1,4 +1,5 @@
-### Hi there 👋
+### ![FantasyGIF](https://user-images.githubusercontent.com/42724831/235311147-7cb8dedd-fd38-4d91-867f-959efbf8f29d.gif)
+🪞salutations
 
 <!--
 **HelenaHollins/HelenaHollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
